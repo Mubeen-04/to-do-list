@@ -30,4 +30,6 @@ This component handles the creation of new tasks. It includes:
 
 - Input field for the task name.
 - Submit button to add the new task.
+
+  ## Screenshots
 ![Screenshot (63)](https://github.com/Mubeen-04/to-do-list/assets/172309170/1765d6af-4b54-4993-a839-0f8559121a9b)
